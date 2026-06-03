@@ -3,6 +3,7 @@ public class Main2 {
         System.out.println("ok");
         for(int i=1;i<=40;i++){
             System.out.println(i+"rankaa");
+            System.out.println(i+"babuuuu");
         }
     }
 }
